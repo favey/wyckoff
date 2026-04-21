@@ -10,8 +10,8 @@ from typing import Any
 
 import requests
 
-DEFAULT_OWNER = "YoungCan-Wang"
-DEFAULT_REPO = "Wyckoff-Analysis"
+DEFAULT_OWNER = "favey"
+DEFAULT_REPO = "wyckoff"
 DEFAULT_REF = "feature/visible"
 DEFAULT_WORKFLOW_FILE = "web_quant_jobs.yml"
 
